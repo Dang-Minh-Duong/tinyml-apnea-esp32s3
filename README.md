@@ -23,7 +23,7 @@
 ## Resources
 
 * **Demo Video:** [Click here to watch the demo](https://drive.google.com/drive/u/0/folders/1jF2YqXcGuUXTcJqnaTetIAsx0LQMYZwj)
-* **Dataset:** [Link to Dataset](https://drive.google.com/drive/folders/13t2_g_KirX5G2_hlaG7Sr-WJ2Wh4ard-?usp=drive_link)
+* **Dataset:** [Link to Dataset](https://drive.google.com/drive/u/0/folders/13t2_g_KirX5G2_hlaG7Sr-WJ2Wh4ard-)
 
 ## Quick Start
 1.  Download and extract `ei-apnea-detection-esp32.zip` to your Arduino `libraries` folder.
