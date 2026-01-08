@@ -13,7 +13,7 @@
 | **`inception_lite_architecture.png`** | Diagram of the Neural Network architecture. |
 | **`block_diagram.png`** | Hardware connection diagram. |
 | **`Flowchart.png`** | Firmware logic flowchart. |
-| **`Results`** | Result training model folder. |
+
 
 ## Hardware Requirements
 * **MCU:** ESP32-S3 (DevKitC-1 or similar).
